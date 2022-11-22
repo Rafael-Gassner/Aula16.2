@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    border: 1px solid green;
+    height: 750px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-end;
+   
+}
+*{ margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.itenscontainer{
+    background-color: blue;
+    border: 3px solid white;
+    height: 200px;
+    width: 30%;
+}
+
